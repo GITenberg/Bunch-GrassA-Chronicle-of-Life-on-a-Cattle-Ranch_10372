@@ -1,0 +1,32 @@
+_repo: Bunch-GrassA-Chronicle-of-Life-on-a-Cattle-Ranch_10372
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Vachell, Horace Annesley
+    birthdate: 1861
+    deathdate: 1955
+    gutenberg_agent_id: '3495'
+    url: http://www.gutenberg.org/2009/agents/3495
+    wikipedia: http://en.wikipedia.org/wiki/Horace_Annesley_Vachell
+description: ''
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10372'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ranching -- California -- Fiction'
+- !lcsh 'Short stories, English'
+- !lcc 'PR'
+- !lcsh 'Western stories'
+- GITenberg
+tableOfContents: Alethea-Belle -- The Dumbles -- Pap Spooner -- Gloriana -- Bumblepuppy
+  -- Jasperson's best girl -- Fifteen fat steers -- An experiment -- Uncle Jap's lily
+  -- Wilkins and his Dinah -- A poisoned spring -- The babe -- The baron -- Jim's
+  pup -- Mary -- Old man Bobo's Mandy -- Mintie -- One who died -- A ragamuffin of
+  the foothills -- Dennis.
+title: 'Bunch Grass: A Chronicle of Life on a Cattle Ranch'
+url: http://www.gutenberg.org/ebooks/10372
